@@ -18,8 +18,8 @@ rad.json
 *.g.xlf
 #License-file
 *.flf
+.terraform.lock.hcl
+.terraform/
 #Test results file
 TestResults.xml
-.*  # ignore all dotted files
-.*/ # ignore all dotted folders
 !/.gitignore  # except `gitignore` :)
