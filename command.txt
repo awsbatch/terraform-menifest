@@ -1,0 +1,131 @@
+mkdir /terraform-menifest
+cd /terraform-menifest
+wget https://releases.hashicorp.com/terraform/0.15.3/terraform_0.15.3_linux_amd64.zip
+unzip terraform_0.15.3_linux_amd64.zip 
+sudo mv terraform /usr/local/bin/
+terraform --version
+sudo mv  /usr/local/bin/terraform .
+sudo yum -y install terraform
+terraform --version
+terraform --version
+terraform --help
+which terraform 
+cp /usr/bin/terraform  /usr/local/bin/
+terraform --version
+cd /terraform-menifest/
+vim /terraform-menifest/
+cd /terraform-menifest/
+terraform init
+terraform init
+terraform init
+terraform init
+terraform init
+terraform --version
+terraform --version
+terraform init
+vim .terraform
+vim .terraform.lock.hcl 
+terraform --version
+cd /terraform-menifest/
+terraform validate
+terraform validate
+terraform fmt
+terraform fmt
+terraform fmt
+terraform fmt
+terraform fmt
+terraform fmt
+terraform validate
+terraform init
+terraform validate
+terraform validate
+terraform init
+terraform init -reconfigure
+terraform init
+terraform init
+terraform init -reconfigure
+terraform init -reconfigure
+git pull https://github.com/awsbatch/terraform-menifest.git
+git pull https://github.com/awsbatch/terraform-menifest.git
+git clone https://github.com/awsbatch/terraform-menifest.git
+mv .terraform* versions.tf terraform-menifest/
+mv tfstate terraform-menifest/
+mv terraform-menifest terraform-menifest-copy
+git clone https://github.com/awsbatch/terraform-menifest.git
+cp terraform-menifest-copy/terraform-menifest/.terraform* terraform-menifest/
+cp -rf terraform-menifest-copy/terraform-menifest/.terraform* terraform-menifest/
+cp -rf terraform-menifest-copy/terraform-menifest/tfstate terraform-menifest/
+ls terraform-menifest
+ls -a terraform-menifest
+cp -rf terraform-menifest-copy/terraform-menifest/versions.tf terraform-menifest/
+rm -rf terraform-menifest
+git clone https://github.com/awsbatch/terraform-menifest.git
+cp terraform-menifest-copy/terraform-menifest/versions.tf /terraform-menifest/
+cd terraform-menifest
+terraform init
+terraform fmt
+git commit -m "terraform init commit"
+git commit -m "terraform init commit"
+git commit -m "terraform init commit"
+git commit -m "terraform init commit"
+git commit -m "terraform init commit"
+rm -r terraform-menifest
+rm -rf terraform-menifest
+git clone https://github.com/awsbatch/terraform-menifest.git
+cp terraform-menifest-copy/terraform-menifest/versions.tf terraform-menifest/
+cd terraform-menifest
+terraform init
+terraform validate
+terraform validate
+terraform validate
+terraform validate
+terraform fmt
+terraform plan
+terraform apply
+vim terraform.tfstate 
+terraform destroy
+terraform validate
+terraform plan
+terraform validate
+terraform validate
+terraform validate
+terraform validate
+terraform validate
+terraform plan
+terraform apply --help
+terraform apply -auto-approve
+terraform apply -auto-approve
+terraform apply -auto-approve
+terraform destroy -auto-approve
+cd /terraform-menifest
+terraform validate
+terraform plan
+terraform plan
+terraform plan -out
+terraform plan --help
+terraform plan -outh=file.txt
+terraform plan -out=file.
+terraform plan  | grep ami
+terraform plan  | grep instance_type
+terraform apply -auto-approve
+terraform state list
+terraform refresh
+terraform destroy
+cd /terraform-menifest
+terraform show
+terraform state list
+terraform apply -auto-approve
+terraform show
+terraform state list
+terraform plan
+terraform apply -auto-approve
+terraform plan
+terraform validate
+terraform plan
+terraform apply -auto-approve
+terraform destroy -auto-aprove
+terraform destroy -auto-approve
+terraform state list
+terraform state rm aws_instances_server-xyz
+terraform tain aws_instances_server-xyz
+terraform untain aws_instances_server-xyz
